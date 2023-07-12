@@ -7,11 +7,15 @@
 
 body {
     background-color: black;
+    background-image: url(https://www.aidemos.info/wp-content/uploads/2023/03/Modern-Houses-with-Midjorney-AI.webp);
+    background-position: center;
+    background-size: cover;
     color: white;
     display: flex;
     flex-direction: column;
     align-items: center;
     height: 100vh;
+
 
 }
 
