@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+
+}
+
+h1 {
+    padding: 65px;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: cursive;
+}
+
+
+p {
+    padding: 70px;
+}
